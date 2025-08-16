@@ -13,8 +13,7 @@
   <p>
     I’m exploring both commerce and code.<br/>
     I know <b>JavaScript, CSS, and HTML</b>.<br/>
-    Outside coding: marketing design (logos, labels), pencil drawing, chess, pixel art, reading, journaling, and sometimes cooking.
-  </p>
+    Outside coding: marketing design (logos, labels), pencil drawing, chess, pixel art, reading, journaling etc</p>
 
   <!-- Skills -->
   <h2>Skills</h2>
@@ -23,7 +22,7 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   </p>
-  <p><i>Also: Marketing Design • Drawing • Pixel Art • Chess • Journaling • Cooking</i></p>
+  <p><i>Also: Marketing Design • Drawing • Pixel Art • Chess • Journaling •</i></p>
 
   <!-- Projects -->
   <h2>Projects</h2>
