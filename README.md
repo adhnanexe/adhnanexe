@@ -5,7 +5,7 @@
   <p><b>Commerce student & aspiring CA • Newbie in coding (for fun)</b></p>
 
   <!-- Center GIF (Giphy is reliable on GitHub) -->
-  <img src="https://media.giphy.com/media/ClvmvXv4WJ07u30A0G/giphy.gif"
+  <img src="https://giphy.com/gifs/e0iEqahAyIRAqjMc6F"
        alt="typing gif" width="520" style="max-width:100%; border-radius:16px;" />
 
   <!-- About Me -->
