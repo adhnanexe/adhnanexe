@@ -42,10 +42,13 @@
   </table>
 
   <!-- Contact -->
-  <h2>Contact</h2>
-  <p>
-    <a href="YOUR_INSTAGRAM_LINK_HERE">Instagram</a>
-  </p>
+<h2>Contact</h2>
+<p>
+  <a href="https://www.instagram.com/l1leexe?igsh=MTNrc2lkdWFoaHFzdA==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" 
+         alt="Instagram" />
+  </a>
+</p>
 
   <!-- GitHub Stats (image-based; no JS) -->
   <h2>GitHub Stats</h2>
